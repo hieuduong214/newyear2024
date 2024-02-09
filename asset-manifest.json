@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/newyear2024/static/css/main.9cb4a5ed.css",
+    "main.js": "/newyear2024/static/js/main.891452ab.js",
+    "static/media/Dance Happy Sticker - Dance Happy Cat - Discover & Share GIFs.gif": "/newyear2024/static/media/Dance Happy Sticker - Dance Happy Cat - Discover & Share GIFs.218a4208f408fb5e951f.gif",
+    "static/media/Fast Cat Cat Excited Sticker – Fast Cat Cat Excited Jumping – Ищите GIF-файлы и обменивайтесь ими.gif": "/newyear2024/static/media/Fast Cat Cat Excited Sticker – Fast Cat Cat Excited Jumping – Ищите GIF-файлы и обменивайтесь ими.723f2a14db9e7fa3b020.gif",
+    "static/media/Dog Dance GIF - Dog Dance Crazy Dog - Discover & Share GIFs.gif": "/newyear2024/static/media/Dog Dance GIF - Dog Dance Crazy Dog - Discover & Share GIFs.28435cc695739d4b076f.gif",
+    "static/media/jpg": "/newyear2024/static/media/47f04e94393d9363ca2c1.d979b4f101631a9175d2.jpg",
+    "static/media/3f5ca0be-8494-41d4-abe7-c746d38d7872.jpg": "/newyear2024/static/media/3f5ca0be-8494-41d4-abe7-c746d38d7872.b37b498d7d57aa066bd0.jpg",
+    "index.html": "/newyear2024/index.html",
+    "main.9cb4a5ed.css.map": "/newyear2024/static/css/main.9cb4a5ed.css.map",
+    "main.891452ab.js.map": "/newyear2024/static/js/main.891452ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cb4a5ed.css",
+    "static/js/main.891452ab.js"
+  ]
+}
